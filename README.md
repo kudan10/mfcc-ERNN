@@ -1,2 +1,2 @@
 # mfcc-ERNN
-Speech recognition using mfcc and ernn
+Speech recognition using MFCC (Mel Frequency Cepstrum Coefficient) and ERNN (Elman Recurrent Neural Network)
